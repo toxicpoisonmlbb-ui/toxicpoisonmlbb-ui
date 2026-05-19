@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Prakash <br>junior full stack developer at Inspirit Engineering solutions<br>with knowledge of python java springboot fastapi sqlplus html css js reactjs tailwind bootstrap<br>
+I am Prakash <br>junior full stack developer at Inspirit Engineering solutions<br>
 
 
 ## 🌐 Socials:
